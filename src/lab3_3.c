@@ -1,3 +1,5 @@
+// Name: BARRY ABDOURAHAMANE
+// Student ID: 260ADB181
 #include <stdio.h>
 
 int my_strlen(const char* str) {

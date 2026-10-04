@@ -1,3 +1,5 @@
+// Name: BARRY ABDOURAHAMANE
+// Student ID: 260ADB181
 #include <stdio.h>
 
 int array_min(int arr[], int size) {
