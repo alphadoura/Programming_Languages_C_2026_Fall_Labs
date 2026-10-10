@@ -1,9 +1,7 @@
 /* 
-    NAME: BARRY ABDOURAHAMANE
-    ID: 260ADB181
  * week4_1_dynamic_array.c
- * Author: [Your Name]
- * Student ID: [Your ID]
+ * Author: BARRY ABDOURAHAMANE
+ * Student ID: 260ADB181
  * Description:
  *   Demonstrates creation and usage of a dynamic array using malloc.
  *   Allocate memory for n integers, read them from the user,
