@@ -45,7 +45,6 @@ int main(void) {
 }
 
 // Implement functions below
-// Implement functions below
 void swap(int *x, int *y) {
     int temp = *x;
     *x = *y;
