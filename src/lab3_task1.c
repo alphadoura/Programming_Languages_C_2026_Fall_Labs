@@ -1,4 +1,6 @@
 /*
+    Name: BARRY ABDOURAHAMANE
+    ID: 260ADB181
  * Lab 3, Task 1
  * Name: <your name>
  * Student ID: <your student ID>
@@ -52,7 +54,6 @@ int main(void) {
     return 0;
 }
 
-// Implement functions below
 // Implement functions below
 int array_min(int arr[], int size) {
     int min = arr[0];
